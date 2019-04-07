@@ -1,2 +1,2 @@
-rm(list( ... ))
+rm(list = ls())
 gc()
